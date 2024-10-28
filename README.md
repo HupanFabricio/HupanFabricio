@@ -6,7 +6,7 @@
 
 ### 🧞‍♂️ About me:
 
-Me apasiona la creación de plataformas de e-commerce y el desarrollo de soluciones completas que integren backend y frontend. Disfruto diseñando y optimizando funcionalidades como filtros, paginación, y sistemas de búsqueda avanzada para mejorar la experiencia del usuario. Me gusta explorar cómo cada componente interactúa para brindar un servicio eficiente y dinámico.
+I am passionate about creating e-commerce platforms and developing complete solutions that integrate backend and frontend. I enjoy designing and optimizing features such as filters, pagination and advanced search systems to improve the user experience. I like to explore how each component interacts to provide an efficient and dynamic service.
 - 🛠 **Main stack**: JavaScript, HTML, CSS, TypeScript.
 - 🌱 **Currently learning**: MySQL.
 - 👯 **Interested in collaborating** on open source projects and contributing to the growth of the tech community.
